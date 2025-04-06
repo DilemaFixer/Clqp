@@ -19,8 +19,6 @@ cd Clqp
 # Clone the repository
 git clone https://github.com/DilemaFixer/Clqp.git .
 
-# Or download with dotnet CLI
-dotnet add package Clqp
 ```
 
 ### Unix-based systems (Linux, macOS)
@@ -33,8 +31,6 @@ cd Clqp
 # Clone the repository
 git clone https://github.com/DilemaFixer/Clqp.git .
 
-# Or download with dotnet CLI
-dotnet add package Clqp
 ```
 
 ## 🚀 API and Usage Examples
