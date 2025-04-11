@@ -9,26 +9,8 @@ A command-line query processor library for building interactive command-line app
 
 ## 📥 Installation
 
-### Windows
-
-```powershell
-# Create a directory for the project
-mkdir Clqp
-cd Clqp
-
-# Clone the repository
-git clone https://github.com/DilemaFixer/Clqp.git .
-
 ```
 
-### Unix-based systems (Linux, macOS)
-
-```bash
-# Create a directory for the project
-mkdir Clqp
-cd Clqp
-
-# Clone the repository
 git clone https://github.com/DilemaFixer/Clqp.git .
 
 ```
